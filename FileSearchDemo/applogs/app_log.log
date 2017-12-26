@@ -1,0 +1,11 @@
+ [INFO ] 2017-12-25 21:05:51.877 [main] FileSearchDemoApplication - Starting FileSearchDemoApplication on scopus1-desktop with PID 27525 (/home/scopus-1/workspace/FileSearchDemo/target/classes started by scopus-1 in /home/scopus-1/workspace/FileSearchDemo)
+[INFO ] 2017-12-25 21:05:51.879 [main] FileSearchDemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2017-12-25 21:05:54.304 [main] FileSearchDemoApplication - Started FileSearchDemoApplication in 2.728 seconds (JVM running for 3.184)
+[INFO ] 2017-12-25 21:06:11.327 [http-nio-8080-exec-1] FileSearchController - This is an info message
+[WARN ] 2017-12-25 21:06:11.327 [http-nio-8080-exec-1] FileSearchController - This is a warn message
+[ERROR] 2017-12-25 21:06:11.327 [http-nio-8080-exec-1] FileSearchController - This is an error message
+[FATAL] 2017-12-25 21:06:11.327 [http-nio-8080-exec-1] FileSearchController - This is a fatal message
+[INFO ] 2017-12-25 21:06:11.327 [http-nio-8080-exec-1] FileSearchController - Calling search controller to match words in files
+[INFO ] 2017-12-25 21:06:11.330 [http-nio-8080-exec-1] FileSearchService - List of words to match in files : [london, india]
+[INFO ] 2017-12-25 21:06:11.454 [http-nio-8080-exec-1] FileSearchService - Total files matched against words : 2
+[INFO ] 2017-12-25 21:06:11.456 [http-nio-8080-exec-1] FileSearchController - Total time taken for search files : 
